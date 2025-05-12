@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @G-Gakii
-- 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning Angular and Express js
-- 💞️ I’m looking to collaborate on MEAN (Mongo-DB,Express,Angular,Node js) stack project
+- 👀 I’m  full-stack web development
+- 💻 Frontend: CSS, TypeScript, Angular, React, Bootstrap, Tailwind CSS
+- ⚙️ Backend: Node.js, Express, Python, Django, PostgreSQL, MongoDB
 - 📖 Read my articles [medium:Gakii](https://medium.com/@gakiiviolet1)
 - 📫 How to reach me: [Linkedin:Gakii](https://www.linkedin.com/in/gakii-violet-ab46841a9/) | [bluesky:Gakii](https://bsky.app/profile/gallant-gakii.bsky.social) | [twitter:Gakii](https://x.com/Gallant_Gakii)
 - 😄 Pronouns: She/her
